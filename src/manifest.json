@@ -1,0 +1,6 @@
+{
+  "name": "AirSwap Quoter",
+  "description": "Add AirSwap quotes to popular AMM DEXes",
+  "version": "0.0.1",
+  "manifest_version": 3
+}
